@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sajedurrahmanratul
 - 👀 I’m interested in Programming & Graphic Design  ...
 - 🌱 I’m currently learning ...
-- 📫 How to reach me 1/ Facebook: https://www.facebook.com/sajedur.rahman.9465
+- 📫 How to reach me: https://www.facebook.com/sajedur.rahman.9465
 
 
 <!---

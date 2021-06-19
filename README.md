@@ -1,4 +1,4 @@
-[![MasterHead]()](https://khushboogoel01.github.io)
+<a href="https://www.youtube.com/codingpotter"><img align="center" src="https://raw.githubusercontent.com/Sajedurrahmanratul/Sajedurrahmanratul/main/Neon Green and White Professional LinkedIn Banner.png"/></a>
 
 <h1 align="center">Hi 👋, I'm Sajedur Rahman</h1>
 <h3 align="center">A Teen With Lots Of Dream To Achieve And Learn</h3>

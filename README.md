@@ -1,8 +1,8 @@
 @@ -1,4 +1,4 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_200_800/0/1600774582457?e=1620259200&v=beta&t=vXT6lMDE7ZIkd9OGzG5yLkRLmTDt0kijoQ-ly73bM3U)](https://khushboogoel01.github.io)
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0/1600774582457?e=1628121600&v=beta&t=HN2xs8iRv7SQr4RlzzSs1KrRhnC0CpUfD1K40jqxYWc)](https://khushboogoel01.github.io)
-<h1 align="center">Hi 👋, I'm Khushboo Goel</h1>
-<h3 align="center">A Girl trying to Figure-Out Stuff!!</h3>
+<h1 align="center">Hi 👋, I'm Sajedur Rahman</h1>
+<h3 align="center">A Teen With Lots Of Dream To Achieve And Lots Of Things To Learn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">

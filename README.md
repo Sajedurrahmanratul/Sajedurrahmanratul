@@ -20,6 +20,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dhanrajdc7&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanrajdc7&theme=radical"/>|
 |---|---|
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajedurrahmanratul&show_icons=true&locale=en" alt="sajedurrahmanratul" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajedurrahmanratul&" alt="sajedurrahmanratul" /></p>
